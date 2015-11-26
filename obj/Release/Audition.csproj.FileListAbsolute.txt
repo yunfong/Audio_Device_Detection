@@ -1,0 +1,9 @@
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\bin\Release\Audition.exe
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\bin\Release\Audition.pdb
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\bin\Release\NAudio.dll
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\bin\Release\NAudio.xml
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\obj\Release\Audition.Form1.resources
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\obj\Release\Audition.Properties.Resources.resources
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\obj\Release\Audition.csproj.GenerateResource.Cache
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\obj\Release\Audition.exe
+E:\work\lsbbm\laoshibang-teacher-windows\idayi\Audition\obj\Release\Audition.pdb
